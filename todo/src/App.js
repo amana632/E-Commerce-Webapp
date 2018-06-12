@@ -3026,7 +3026,7 @@ className App extends Component {
             <span className="product-additional">      
               <img className="" src="../cdn.shopify.com/s/files/1/1811/9855/products/695cd0.jpg?v=1495181409" alt="Glory Fashion Stylish Handbag" />
             </span>
-       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/645cd0.jpg?v=1495181409" className="featured-image" alt="Glory Fashion Stylish Handbag">
+       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/645cd0.jpg?v=1495181409" className="featured-image" alt="Glory Fashion Stylish Handbag"></img>
           </div>      
           
         </a>
@@ -3070,11 +3070,11 @@ className App extends Component {
             
             
             <div className="grid-link__org_price">
-            <span className=money>$100.00</span>
+            <span className={money}>$100.00</span>
             </div>
           
           
-          <del className="grid-link__sale_price"><span className=money>$120.00</span></del>
+          <del className="grid-link__sale_price"><span className={money}>$120.00</span></del>
           
             </div>      
               <span className="shopify-product-reviews-badge" data-id="9475898569"></span>
@@ -3121,7 +3121,7 @@ className App extends Component {
             <span className="product-additional">      
               <img className="" src="../cdn.shopify.com/s/files/1/1811/9855/products/77_a41ebddf-1d5d-4380-a50c-ba59dc38402e82fa.jpg?v=1495185172" alt="Mark &amp; Keith Women Handbag" />
             </span>
-       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/75_55dd4328-d3bb-42dc-8e7f-7f3ea4006ce782fa.jpg?v=1495185172" className="featured-image" alt="Mark &amp; Keith Women Handbag">
+       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/75_55dd4328-d3bb-42dc-8e7f-7f3ea4006ce782fa.jpg?v=1495185172" className="featured-image" alt="Mark &amp; Keith Women Handbag"/>
           </div>      
           
         </a>
@@ -3165,7 +3165,7 @@ className App extends Component {
             
             
             <div className="grid-link__org_price">
-            <span className=money>$230.00</span>
+            <span className={money}>$230.00</span>
             </div>
           
           
@@ -3214,7 +3214,7 @@ className App extends Component {
             <span className="product-additional">      
               <img className="" src="../cdn.shopify.com/s/files/1/1811/9855/products/69_3840768b-5c78-48f4-88d9-175ab17016c82769.jpg?v=1495185822" alt="Taps Fashion Women&#39;s Handbag" />
             </span>
-       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/76_78457e5f-5300-4ed7-9d0b-1b76dd5752542769.jpg?v=1495185822" className="featured-image" alt="Taps Fashion Women&#39;s Handbag">
+       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/76_78457e5f-5300-4ed7-9d0b-1b76dd5752542769.jpg?v=1495185822" className="featured-image" alt="Taps Fashion Women&#39;s Handbag"/>
           </div>      
           
         </a>
@@ -3258,7 +3258,7 @@ className App extends Component {
             
             
             <div className="grid-link__org_price">
-            <span className=money>$250.00</span>
+            <span className={money}>$250.00</span>
             </div>
           
           
@@ -3314,7 +3314,7 @@ className App extends Component {
             <span className="product-additional">      
               <img className="" src="../cdn.shopify.com/s/files/1/1811/9855/products/72_475cb588-948b-4368-a720-62ff0a71ef9aeb5d.jpg?v=1495184188" alt="Typify Women&#39;s Shoulder Bag" />
             </span>
-       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/62_f3653728-e144-474e-8c1f-de838aba96ddeb5d.jpg?v=1495184188" className="featured-image" alt="Typify Women&#39;s Shoulder Bag">
+       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/62_f3653728-e144-474e-8c1f-de838aba96ddeb5d.jpg?v=1495184188" className="featured-image" alt="Typify Women&#39;s Shoulder Bag"/>
           </div>      
           
         </a>
@@ -3358,11 +3358,11 @@ className App extends Component {
             
             
             <div className="grid-link__org_price">
-            <span className=money>$117.00</span>
+            <span className={money}>$117.00</span>
             </div>
           
           
-          <del className="grid-link__sale_price"><span className=money>$120.00</span></del>
+          <del className="grid-link__sale_price"><span className={money}>$120.00</span></del>
           
             </div>      
               <span className="shopify-product-reviews-badge" data-id="9476641033"></span>
@@ -3412,7 +3412,7 @@ className App extends Component {
              
           <div className="ImageOverlayCa"></div>
           
-          <img src="../cdn.shopify.com/s/files/1/1811/9855/products/72_c89dee89-f69b-4e96-a8c9-7b07315dfe989b2f.jpg?v=1495184761" className="featured-image" alt="Vintage Women&#39;s Handbag">
+          <img src="../cdn.shopify.com/s/files/1/1811/9855/products/72_c89dee89-f69b-4e96-a8c9-7b07315dfe989b2f.jpg?v=1495184761" className="featured-image" alt="Vintage Women&#39;s Handbag"/>
           
         </a>
         <div className="ImageWrapper">
@@ -3455,11 +3455,11 @@ className App extends Component {
             
             
             <div className="grid-link__org_price">
-            <span className=money>$117.00</span>
+            <span className={money}>$117.00</span>
             </div>
           
           
-          <del className="grid-link__sale_price"><span className=money>$132.00</span></del>
+          <del className="grid-link__sale_price"><span className={money}>$132.00</span></del>
           
             </div>      
               <span className="shopify-product-reviews-badge" data-id="9476703369"></span>
@@ -3472,7 +3472,7 @@ className App extends Component {
     </div>
     </div>
   </li>
-            
+            </li>
                      
             </ul>             
       </div>
@@ -3513,7 +3513,7 @@ className App extends Component {
         $(".wide-owl__nav-1492409083488 .prev").click(function(){
           type8_products.trigger('owl.prev');
         }) 
-    });
+    })
   });
         </script>
       </div>
@@ -3640,7 +3640,7 @@ className App extends Component {
     </div>
              
         
-       <style>
+       {/* <style>
       .grid-banner-type-5 .bg-effect-1492409276014-0 h4 a,.grid-banner-type-5 .bg-effect-1492409276014-0 h4  { color:#000; }
       .grid-banner-type-5 .bg-effect-1492409276014-0 h4 a:hover  { color:#9f81eb; }
   
@@ -3663,7 +3663,7 @@ className App extends Component {
       .grid-banner-type-5 .bg-effect-1492409353364 h4 a:hover  { color:#9f81eb; }
   
     </style>
-      
+       */}
       
     </div>
     
@@ -3739,7 +3739,7 @@ className App extends Component {
             <span className="product-additional">      
               <img className="" src="../cdn.shopify.com/s/files/1/1811/9855/products/2_64789838-0166-413f-a514-0e1d9c72adad4cc8.jpg?v=1495188075" alt="Semi  Electric washing machines" />
             </span>
-       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/5_0f0e008b-8bcb-4827-9c07-f59e22ec669e4cc8.jpg?v=1495188075" className="featured-image" alt="Semi  Electric washing machines">
+       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/5_0f0e008b-8bcb-4827-9c07-f59e22ec669e4cc8.jpg?v=1495188075" className="featured-image" alt="Semi  Electric washing machines"/>
           </div>      
           
         </a>
@@ -3783,7 +3783,7 @@ className App extends Component {
             
             
             <div className="grid-link__org_price">
-            <span className=money>$260.00</span>
+            <span className={money}>$260.00</span>
             </div>
           
           
@@ -3839,7 +3839,7 @@ className App extends Component {
             <span className="product-additional">      
               <img className="" src="../cdn.shopify.com/s/files/1/1811/9855/products/55d453.jpg?v=1495198959" alt="SBCHL140/98 Over Ear Headphone Without Mic" />
             </span>
-       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/46e1f3.jpg?v=1495198956" className="featured-image" alt="SBCHL140/98 Over Ear Headphone Without Mic">
+       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/46e1f3.jpg?v=1495198956" className="featured-image" alt="SBCHL140/98 Over Ear Headphone Without Mic"/>
           </div>      
           
         </a>
@@ -3883,11 +3883,11 @@ className App extends Component {
             
             
             <div className="grid-link__org_price">
-            <span className=money>$250.00</span>
+            <span className={money}>$250.00</span>
             </div>
           
           
-          <del className="grid-link__sale_price"><span className=money>$300.00</span></del>
+          <del className="grid-link__sale_price"><span className={money}>$300.00</span></del>
           
             </div>      
               <span className="shopify-product-reviews-badge" data-id="9479003849"></span>
@@ -3941,7 +3941,7 @@ className App extends Component {
             <span className="product-additional">      
               <img className="" src="../cdn.shopify.com/s/files/1/1811/9855/products/27_1df4ca70-e26a-4de0-8c20-708b4557a63b9d0f.jpg?v=1495197832" alt="Cybershot W810 20.1MP Digital Camera" />
             </span>
-       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/32_f6f98c1d-2966-40ad-8d03-3073796b8ea39d0f.jpg?v=1495197832" className="featured-image" alt="Cybershot W810 20.1MP Digital Camera">
+       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/32_f6f98c1d-2966-40ad-8d03-3073796b8ea39d0f.jpg?v=1495197832" className="featured-image" alt="Cybershot W810 20.1MP Digital Camera"/>
           </div>      
           
         </a>
@@ -3985,11 +3985,11 @@ className App extends Component {
             
             
             <div className="grid-link__org_price">
-            <span className=money>$350.00</span>
+            <span className={money}>$350.00</span>
             </div>
           
           
-          <del className="grid-link__sale_price"><span className=money>$400.00</span></del>
+          <del className="grid-link__sale_price"><span className={money}>$400.00</span></del>
           
             </div>      
               <span className="shopify-product-reviews-badge" data-id="9478479561"></span>
@@ -4036,7 +4036,7 @@ className App extends Component {
             <span className="product-additional">      
               <img className="" src="../cdn.shopify.com/s/files/1/1811/9855/products/57_4437b1f2-f5d3-4291-a00f-51cc5eddd57dce00.jpg?v=1495192957" alt="Nivia Low cut Multi Color Football Shoes" />
             </span>
-       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/23_7b0a1b79-051b-426d-8f0d-bd932e2523cace00.jpg?v=1495192957" className="featured-image" alt="Nivia Low cut Multi Color Football Shoes">
+       <img src="../cdn.shopify.com/s/files/1/1811/9855/products/23_7b0a1b79-051b-426d-8f0d-bd932e2523cace00.jpg?v=1495192957" className="featured-image" alt="Nivia Low cut Multi Color Football Shoes"/>
           </div>      
           
         </a>
@@ -4080,7 +4080,7 @@ className App extends Component {
             
             
             <div className="grid-link__org_price">
-            <span className=money>$450.00</span>
+            <span className={money}>$450.00</span>
             </div>
           
           
